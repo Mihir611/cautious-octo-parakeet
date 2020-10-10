@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSB_E_Mailing_System", "S.S.B-E-Mailing-System\SSB_E_Mailing_System.csproj", "{C2F90559-4468-462F-8204-744857BFCD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = A simple mailing System to help send and stoore E-mail and related information
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F90559-4468-462F-8204-744857BFCD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F90559-4468-462F-8204-744857BFCD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F90559-4468-462F-8204-744857BFCD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F90559-4468-462F-8204-744857BFCD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

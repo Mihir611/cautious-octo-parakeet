@@ -1,0 +1,93 @@
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Email.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Emailform.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Form1.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.home.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Itmeinfo.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Properties.Resources.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.SuppInfo.resources
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csproj.GenerateResource.Cache
+E:\SSB E-Mailing System\S.S.B-E-Mailing-System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.config
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csprojResolveAssemblyReference.cache
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Email.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Emailform.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Form1.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.home.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Itmeinfo.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Properties.Resources.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.SuppInfo.resources
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csproj.GenerateResource.Cache
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.pdb
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\Bunifu_UI_v1.52.dll
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.pdb
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.dll
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.pdfa.dll
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xtra.dll
+E:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xml
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.config
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.pdb
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.pdb
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\Bunifu_UI_v1.52.dll
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.dll
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.pdfa.dll
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xtra.dll
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xml
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csprojResolveAssemblyReference.cache
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Email.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Emailform.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Form1.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.home.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Itmeinfo.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Properties.Resources.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.SuppInfo.resources
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csproj.GenerateResource.Cache
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.manifest
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.application
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe.manifest
+F:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.application
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.config
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.pdb
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.manifest
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.application
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.pdb
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.dll
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.pdfa.dll
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xtra.dll
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\itextsharp.xml
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csprojResolveAssemblyReference.cache
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Email.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Emailform.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Form1.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.home.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Itmeinfo.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Properties.Resources.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.SuppInfo.resources
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csproj.GenerateResource.Cache
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe.manifest
+I:\SSB E-Mailing System\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.application
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.config
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe.manifest
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.application
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.exe
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\bin\Debug\S.S.B-E-Mailing-System.pdb
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Email.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.EmailInfo.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Form1.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.home.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Itmeinfo.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.ModifySup.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.ModiItem.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.Properties.Resources.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B_E_Mailing_System.SuppInfo.resources
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csproj.GenerateResource.Cache
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe.manifest
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.application
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.exe
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\S.S.B-E-Mailing-System.pdb
+E:\SSB_E_Mailing_System\S.S.B-E-Mailing-System\obj\Debug\SSB_E_Mailing_System.csprojResolveAssemblyReference.cache

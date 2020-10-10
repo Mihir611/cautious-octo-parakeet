@@ -1,0 +1,3 @@
+1.Microsoft .Net 4.7.2
+2.Visual Studio 2k12
+3.Microsoft SQL Server 2014
